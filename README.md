@@ -11,6 +11,7 @@ The two csv files were merged and subsequently analyzed using Pandas to compare 
 
 ## Results
 ![ChallengeSummary](https://user-images.githubusercontent.com/92493572/142776337-6997d61d-8c02-4ed9-9095-092fea9449c9.png)
+
 As expected, rural areas had the lowest amount of rides and drivers, urban areas had the highest number, and suburban areas were inbetween the two. The notable difference is how much the average fares differ. Rural areas average $34.62 per ride, whereas urban drivers average $24.53 per ride. To summarize the rural data, rural drivers earn:
   - 41.13% more per ride than urban areas
   - 11.79% more per ride than suburban areas
@@ -23,3 +24,5 @@ Rides per driver are as follows:
  - Urban: 0.68
 
 Rural drivers had 135.29% more rides per driver than urban drivers, and 25% more than suburban.
+
+## Summary
