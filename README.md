@@ -12,7 +12,7 @@ The two csv files were merged and subsequently analyzed using Pandas to compare 
 ## Results
 ![ChallengeSummary](https://user-images.githubusercontent.com/92493572/142776337-6997d61d-8c02-4ed9-9095-092fea9449c9.png)
 
-As expected, rural areas had the lowest amount of rides and drivers, urban areas had the highest number, and suburban areas were inbetween the two. The notable difference is how much the average fares differ. Rural areas average $34.62 per ride, whereas urban drivers average $24.53 per ride. To summarize the rural data, rural drivers earn:
+As expected, rural areas had the lowest number of rides and drivers, urban areas had the highest number, and suburban areas were in between the two. The notable difference is how much the average fares differ. Rural areas average $34.62 per ride, whereas urban drivers average $24.53 per ride. To summarize the rural data, rural drivers earn:
   - 41.13% more per ride than urban areas
   - 11.79% more per ride than suburban areas
   - 234.89% more than urban drivers
@@ -37,4 +37,4 @@ The above results would imply that there are simply far too many urban drivers t
 
 The major disparity could also be in part due to time stuck in traffic, which could be addressed by restructuring the pricing calculations. If, for instance, distance traveled was causing rural areas to earn significantly higher amounts than urban drivers (who may often be held up in rush hour traffic), this could be rebalanced internally by putting more salary emphasis on time spent in the vehicle versus miles traveled.
 
-The initial anaylsis has provided points of interest to investigate, though it is strongly recommended to father additional information before making any sizeable decisions. Perhaps one alternative to purchasing or downloading route information, a survey could be sent out to the drivers and riders using the PyBer app referencing the above topics to gain potential insight to the problem.
+The initial analysis has provided points of interest to investigate, though it is strongly recommended to father additional information before making any sizeable decisions. Perhaps one alternative to purchasing or downloading route information, a survey could be sent out to the drivers and riders using the PyBer app referencing the above topics to gain potential insight to the problem.
