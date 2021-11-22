@@ -25,4 +25,16 @@ Rides per driver are as follows:
 
 Rural drivers had 135.29% more rides per driver than urban drivers, and 25% more than suburban.
 
+A comparison of total fares by city type was also charted for visual aid.
+![ChallengeChart](https://user-images.githubusercontent.com/92493572/142786129-34777da3-57b7-4aa4-8006-be0f394ffaf1.png)
+
+As urban cities have more drivers, a higher total fare was expected, especially compared to rural areas.
+
 ## Summary
+The data, although intriguing, lacks critical pieces of information to ultimately be utilized. At this time, PyBer should put emphasis on acquiring information such as the distance traveled per trip, duration of each trip, and average wait times between trips.
+
+The above results would imply that there are simply far too many urban drivers than there is needed to meet ride demands. With urban areas only having 0.68 trips per driver, it may be worthwhile to incentivize drivers to go elsewhere or target specific high demand times, if any.
+
+The major disparity could also be in part due to time stuck in traffic, which could be addressed by restructuring the pricing calculations. If, for instance, distance traveled was causing rural areas to earn significantly higher amounts than urban drivers (who may often be held up in rush hour traffic), this could be rebalanced internally by putting more salary emphasis on time spent in the vehicle versus miles traveled.
+
+The initial anaylsis has provided points of interest to investigate, though it is strongly recommended to father additional information before making any sizeable decisions. Perhaps one alternative to purchasing or downloading route information, a survey could be sent out to the drivers and riders using the PyBer app referencing the above topics to gain potential insight to the problem.
